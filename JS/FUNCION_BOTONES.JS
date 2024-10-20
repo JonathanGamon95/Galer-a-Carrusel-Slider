@@ -65,6 +65,4 @@ const deslizamiento_isquierda = () => {
 BOTON_ISQUIERDA.addEventListener("click", deslizamiento_isquierda);
 
 
-//arreglar el primer elemento, no se aplica el agrandado
-
-// para agregar mas elementos a la galeria, modificar la cantidad en el grid-template-columns: repeat(6, 400px); en CSS
+//nota: para agregar mas elementos a la galeria, modificar la cantidad en el grid-template-columns: repeat(6, 400px); en CSS
